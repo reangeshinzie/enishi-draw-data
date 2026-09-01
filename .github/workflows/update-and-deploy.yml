@@ -4,6 +4,8 @@ on:
   schedule:
     # 抽せん日の21:30 JST
     - cron: "30 12 * * 1,2,4,5"
+    # 同日23:17 JSTの再試行（GitHub側で予約実行が欠落する場合に備える）
+    - cron: "17 14 * * 1,2,4,5"
     # 翌朝09:30 JSTの再試行
     - cron: "30 0 * * 2,3,5,6"
   workflow_dispatch:
