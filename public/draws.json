@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-01T08:55:44Z",
+  "draws": [
+    {
+      "game": "loto6",
+      "drawNumber": 2125,
+      "drawDate": "2026-08-03",
+      "mainNumbers": [
+        3,
+        22,
+        25,
+        28,
+        30,
+        43
+      ],
+      "bonusNumbers": [
+        39
+      ]
+    },
+    {
+      "game": "miniloto",
+      "drawNumber": 1398,
+      "drawDate": "2026-08-04",
+      "mainNumbers": [
+        15,
+        16,
+        26,
+        27,
+        31
+      ],
+      "bonusNumbers": [
+        12
+      ]
+    },
+    {
+      "game": "loto6",
+      "drawNumber": 2126,
+      "drawDate": "2026-08-06",
+      "mainNumbers": [
+        18,
+        20,
+        22,
+        35,
+        37,
+        42
+      ],
+      "bonusNumbers": [
+        24
+      ]
+    },
+    {
+      "game": "loto7",
+      "drawNumber": 689,
+      "drawDate": "2026-08-07",
+      "mainNumbers": [
+        4,
+        18,
+        23,
+        24,
+        32,
+        33,
+        35
+      ],
+      "bonusNumbers": [
+        29,
+        36
+      ]
+    },
+    {
+      "game": "loto6",
+      "drawNumber": 2127,
+      "drawDate": "2026-08-10",
+      "mainNumbers": [
+        7,
+        12,
+        15,
+        29,
+        30,
+        33
+      ],
+      "bonusNumbers": [
+        22
+      ]
+    },
+    {
+      "game": "miniloto",
+      "drawNumber": 1399,
+      "drawDate": "2026-08-11",
+      "mainNumbers": [
+        5,
+        22,
+        26,
+        29,
+        30
+      ],
+      "bonusNumbers": [
+        15
+      ]
+    },
+    {
+      "game": "loto6",
+      "drawNumber": 2128,
+      "drawDate": "2026-08-13",
+      "mainNumbers": [
+        13,
+        20,
+        22,
+        27,
+        35,
+        38
+      ],
+      "bonusNumbers": [
+        11
+      ]
+    },
+    {
+      "game": "loto7",
+      "drawNumber": 690,
+      "drawDate": "2026-08-14",
+      "mainNumbers": [
+        3,
+        10,
+        14,
+        17,
+        18,
+        20,
+        25
+      ],
+      "bonusNumbers": [
+        19,
+        34
+      ]
+    },
+    {
+      "game": "loto6",
+      "drawNumber": 2129,
+      "drawDate": "2026-08-17",
+      "mainNumbers": [
+        2,
+        4,
+        6,
+        16,
+        25,
+        41
+      ],
+      "bonusNumbers": [
+        40
+      ]
+    },
+    {
+      "game": "miniloto",
+      "drawNumber": 1400,
+      "drawDate": "2026-08-18",
+      "mainNumbers": [
+        1,
+        14,
+        15,
+        17,
+        29
+      ],
+      "bonusNumbers": [
+        30
+      ]
+    },
+    {
+      "game": "loto6",
+      "drawNumber": 2130,
+      "drawDate": "2026-08-20",
+      "mainNumbers": [
+        12,
+        18,
+        35,
+        40,
+        41,
+        43
+      ],
+      "bonusNumbers": [
+        3
+      ]
+    },
+    {
+      "game": "loto7",
+      "drawNumber": 691,
+      "drawDate": "2026-08-21",
+      "mainNumbers": [
+        8,
+        10,
+        20,
+        22,
+        23,
+        27,
+        37
+      ],
+      "bonusNumbers": [
+        2,
+        9
+      ]
+    },
+    {
+      "game": "loto6",
+      "drawNumber": 2131,
+      "drawDate": "2026-08-24",
+      "mainNumbers": [
+        25,
+        26,
+        28,
+        33,
+        35,
+        43
+      ],
+      "bonusNumbers": [
+        9
+      ]
+    },
+    {
+      "game": "miniloto",
+      "drawNumber": 1401,
+      "drawDate": "2026-08-25",
+      "mainNumbers": [
+        15,
+        17,
+        23,
+        26,
+        31
+      ],
+      "bonusNumbers": [
+        22
+      ]
+    },
+    {
+      "game": "loto6",
+      "drawNumber": 2132,
+      "drawDate": "2026-08-27",
+      "mainNumbers": [
+        9,
+        15,
+        16,
+        19,
+        31,
+        32
+      ],
+      "bonusNumbers": [
+        4
+      ]
+    },
+    {
+      "game": "loto7",
+      "drawNumber": 692,
+      "drawDate": "2026-08-28",
+      "mainNumbers": [
+        7,
+        9,
+        15,
+        18,
+        20,
+        28,
+        31
+      ],
+      "bonusNumbers": [
+        21,
+        34
+      ]
+    },
+    {
+      "game": "loto6",
+      "drawNumber": 2133,
+      "drawDate": "2026-08-31",
+      "mainNumbers": [
+        1,
+        11,
+        14,
+        20,
+        29,
+        38
+      ],
+      "bonusNumbers": [
+        27
+      ]
+    }
+  ]
+}
