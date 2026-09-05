@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "coverage": {
+    "miniloto": {
+      "count": 1402,
+      "firstDate": "1999-04-13",
+      "lastDate": "2026-09-01",
+      "lastDraw": 1402,
+      "missing": 0
+    },
+    "loto6": {
+      "count": 2134,
+      "firstDate": "2000-10-05",
+      "lastDate": "2026-09-03",
+      "lastDraw": 2134,
+      "missing": 0
+    },
+    "loto7": {
+      "count": 693,
+      "firstDate": "2013-04-05",
+      "lastDate": "2026-09-04",
+      "lastDraw": 693,
+      "missing": 0
+    },
+    "numbers3": {
+      "count": 7064,
+      "firstDate": "1994-10-07",
+      "lastDate": "2026-09-04",
+      "lastDraw": 7064,
+      "missing": 0
+    },
+    "numbers4": {
+      "count": 7064,
+      "firstDate": "1994-10-07",
+      "lastDate": "2026-09-04",
+      "lastDraw": 7064,
+      "missing": 0
+    },
+    "bingo5": {
+      "count": 486,
+      "firstDate": "2017-04-05",
+      "lastDate": "2026-09-02",
+      "lastDraw": 486,
+      "missing": 0
+    }
+  },
+  "totalDraws": 18843,
+  "sourcePages": 644,
+  "productionFeedMatches": 18,
+  "bytes": 3117056,
+  "sha256": "6665474d8a3e04332635ba171e21f7d4b47e2d099a96d07be9a45cabfa215a2c"
+}

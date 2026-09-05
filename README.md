@@ -19,3 +19,9 @@ python scripts/update_draws.py --games all --months-back 2
 ```
 
 当せん結果の一致は購入や当せんの証明ではありません。購入券を公式情報と照合してください。
+
+## 過去照合用データベース
+
+6種類の第1回からのローカルSQLiteデータベースを作成する手順と仕様は
+[`database/README.md`](database/README.md) を参照してください。
+現行の配信JSONおよび自動更新とは独立した成果物です。
