@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-01T15:47:52Z",
+  "updatedAt": "2026-09-04T16:34:37Z",
   "draws": [
     {
       "game": "loto6",
@@ -291,6 +291,40 @@
       ],
       "bonusNumbers": [
         22
+      ]
+    },
+    {
+      "game": "loto6",
+      "drawNumber": 2134,
+      "drawDate": "2026-09-03",
+      "mainNumbers": [
+        5,
+        9,
+        10,
+        19,
+        26,
+        35
+      ],
+      "bonusNumbers": [
+        18
+      ]
+    },
+    {
+      "game": "loto7",
+      "drawNumber": 693,
+      "drawDate": "2026-09-04",
+      "mainNumbers": [
+        16,
+        17,
+        22,
+        23,
+        25,
+        33,
+        35
+      ],
+      "bonusNumbers": [
+        13,
+        31
       ]
     }
   ]
