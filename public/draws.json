@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T22:39:41Z",
+  "updatedAt": "2026-11-10T19:58:15Z",
   "draws": [
     {
       "game": "loto6",
@@ -926,6 +926,21 @@
       ],
       "bonusNumbers": [
         27
+      ]
+    },
+    {
+      "game": "miniloto",
+      "drawNumber": 1412,
+      "drawDate": "2026-11-10",
+      "mainNumbers": [
+        3,
+        6,
+        12,
+        19,
+        25
+      ],
+      "bonusNumbers": [
+        15
       ]
     }
   ]
